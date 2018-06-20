@@ -1,3 +1,6 @@
+
+** THIS IS THE INITIAL README CREATED FOR CS602 README FILE**
+
 Hello
 
 This is a small description of the layout behind this project. I apologize for its
@@ -43,7 +46,3 @@ referenced in comments in the code
 Currently there are some nuances to the UI. The Admin View and Customer view change when
  logged in or not logged in. Primarily the view of not being logged in is the view that
  the admin would see. When logged in some buttons on the header change.
-
- I was not able to get the "other" button within the product fields to disappear when logged
- in. These buttons are for Admin use only. Customers tab when not logged in will show all
- customers and their pertaining orders.
